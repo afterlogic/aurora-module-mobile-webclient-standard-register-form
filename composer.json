@@ -1,0 +1,14 @@
+{
+	"name": "afterlogic/aurora-module-mobile-webclient-standard-register-form",
+	"type": "aurora-module",
+	"require": {
+		"php": ">=5.4.0",
+		"afterlogic/aurora-framework": "~0.5"
+	},
+	"extra": {
+		"installer-name": "StandardRegisterFormMobileWebclient",
+		"include-in-mobile": true,
+		"include-in-desktop": false,
+		"require": ["StandardRegisterFormWebclient"]
+	}
+}
