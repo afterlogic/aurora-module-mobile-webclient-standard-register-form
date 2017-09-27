@@ -6,9 +6,6 @@
 		"afterlogic/aurora-framework": "~0.6"
 	},
 	"extra": {
-		"installer-name": "StandardRegisterFormMobileWebclient",
-		"include-in-mobile": true,
-		"include-in-desktop": false,
-		"require": ["StandardRegisterFormWebclient"]
+		"installer-name": "StandardRegisterFormMobileWebclient"
 	}
 }
